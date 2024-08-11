@@ -4,6 +4,6 @@ return(function(...)local x={"\101\069\085\083","\097\069\108\114\119\076\089\08
 game.StarterGui:SetCore("SendNotification", {
   Title = "Script";
   Text = "Script made by @carscar52691";
-  Icon = "";
+  Icon = "9";
   Duration = "7";
 })
